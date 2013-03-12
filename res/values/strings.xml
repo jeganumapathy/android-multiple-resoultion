@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleResolution</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="hello_world_sw">Hello world! layout-sw480dp</string>
+	<string name="hello_world_large">Hello world! layout-large</string>
+	<string name="hello_world_small">Hello world! layout-small</string>
+	<string name="hello_world_normal">Hello world! layout-normal</string>
+	<string name="hello_world_normal_mdpi">Hello world! layout-normal-mdpi</string>
+	<string name="hello_world_normal_hdpi">Hello world! layout-normal-hdpi</string>
+	<string name="hello_world_normal_xhdpi">Hello world! layout-normal-xhdpi</string>
+	<string name="hello_world_xlarge">Hello world! layout-xlarge</string>
+</resources>
